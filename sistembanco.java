@@ -2,7 +2,7 @@ import java.util.*;
 
 public class sistembanco {
 
-    // Clase Banco 
+    // Clase Banco - Gestiona todas las cuentas
     static class Banco {
         private ArrayList<Cuenta> cuentas;
         private int proximoNumeroCuenta;
